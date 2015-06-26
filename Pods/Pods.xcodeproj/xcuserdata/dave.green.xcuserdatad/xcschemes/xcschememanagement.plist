@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-RWPickFlavor-BetterBaseClasses.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-RWPickFlavor-MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0313CEB4A6629CEF7C937767</key>
+		<key>34DA612C549E9BAFE0A84C33</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5A3C6BDC68F3657F7D33533C</key>
+		<key>441A795CE479AECC9D6B584F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D2D0A4D3A2E7668528BB336F</key>
+		<key>6F6D142EBFFB8C29DA02FE4E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A4EEB87A704FF003767E8F06</key>
 		<dict>
 			<key>primary</key>
 			<true/>
